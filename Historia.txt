@@ -1,3 +1,13 @@
-Este es mi primer commit
+Esta es la historia de martin hernandez
 
-Jueves 6, enero, 2022
+edad 27
+
+nacionalidad mexicana
+
+carrera informatica
+
+estatura 1,70
+
+trabajo CBPI 
+
+area testing & support
