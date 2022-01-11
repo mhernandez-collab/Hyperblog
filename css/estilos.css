@@ -1,17 +1,32 @@
 body{
     text-align: center;
-    font-family: cursive;
+    font-family: monospace;
     font-size: 16px;
-    color: gold;
+    color: rgb(82, 82, 82);
     margin: 0;
     padding: 0;
+}
+#cabecera
+{
+    background: rgb(70, 70, 70);
+    box-shadow: 0px 2px 20px 0px gray rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 #container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid gold;
+    border: 1px solid rgb(114, 114, 114);
     margin: auto;
 }
 #container h1
