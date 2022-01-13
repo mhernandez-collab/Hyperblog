@@ -10,4 +10,6 @@ estatura 1,70
 
 trabajo CBPI 
 
-area testing & support
+area testing & support 
+
+aprendiendo pull y push
